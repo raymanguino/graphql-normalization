@@ -1,6 +1,9 @@
 {
-  "name": "typescript",
+  "name": "graphql-normalization",
   "version": "0.0.0",
+  "description": "",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "graphql": "^16.6.0"
+  }
 }
